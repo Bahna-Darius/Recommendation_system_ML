@@ -1,0 +1,1001 @@
+product_id,category,price,brand,avg_rating
+2001,Electronics,605.47,Vasquez-Gomez,3.1
+2002,Clothing,678.09,Moreno Group,4.6
+2003,Food,805.96,Mcdaniel Group,4.6
+2004,Home & Kitchen,273.47,"Pitts, Whitaker and Jackson",4.3
+2005,Health,825.92,Donaldson-Jones,3.0
+2006,Home & Kitchen,500.76,York-Barnett,3.9
+2007,Food,81.67,"Livingston, Jones and Arnold",3.1
+2008,Food,63.26,Scott-Brown,4.5
+2009,Clothing,337.57,"Pitts, Whitaker and Jackson",2.6
+2010,Food,785.97,Mcdaniel Group,4.9
+2011,Electronics,709.14,Chapman Ltd,4.7
+2012,Sports,789.67,"Livingston, Jones and Arnold",4.0
+2013,Food,519.68,Young-Richards,2.1
+2014,Home & Kitchen,443.0,Boyd PLC,1.5
+2015,Food,151.72,Becker-Cabrera,4.4
+2016,Electronics,331.55,Ramirez and Sons,1.7
+2017,Automotive,436.85,King-Wilson,4.4
+2018,Automotive,93.16,Taylor-Hughes,3.0
+2019,Beauty,224.51,Young-Solomon,2.6
+2020,Health,600.23,"Anderson, Soto and Dixon",4.6
+2021,Books,736.98,Franco and Sons,3.4
+2022,Sports,998.36,Ramirez and Sons,3.3
+2023,Toys,933.45,Nelson Ltd,3.2
+2024,Beauty,644.35,"Livingston, Jones and Arnold",2.5
+2025,Health,424.14,Lee Inc,4.1
+2026,Automotive,638.0,Wilson-Pacheco,2.0
+2027,Home & Kitchen,786.72,"Edwards, Robinson and Shannon",4.8
+2028,Toys,122.74,Pruitt Group,4.6
+2029,Health,412.86,"Mccormick, Boone and Hubbard",2.3
+2030,Health,840.6,"Pitts, Whitaker and Jackson",3.9
+2031,Beauty,386.91,Holmes-Madden,3.3
+2032,Toys,574.01,Hess-Mullins,2.4
+2033,Clothing,589.83,Franco and Sons,5.0
+2034,Books,188.55,Becker-Cabrera,1.1
+2035,Clothing,365.42,Griffin-Chase,2.0
+2036,Toys,337.84,Holmes-Madden,3.1
+2037,Clothing,31.07,"Livingston, Jones and Arnold",3.1
+2038,Electronics,29.07,Donaldson-Jones,3.4
+2039,Automotive,832.54,Lee Inc,4.0
+2040,Electronics,276.71,Hardy Inc,3.5
+2041,Food,520.49,York-Barnett,3.4
+2042,Clothing,302.23,Salinas LLC,1.2
+2043,Food,940.98,Hess-Mullins,2.5
+2044,Home & Kitchen,263.0,Hess-Mullins,1.9
+2045,Sports,432.51,"Coleman, Mason and Smith",2.1
+2046,Home & Kitchen,873.37,"Blankenship, Russo and Walker",3.2
+2047,Toys,842.72,"Livingston, Jones and Arnold",1.8
+2048,Health,190.17,"Anderson, Soto and Dixon",2.2
+2049,Automotive,803.63,Duarte PLC,1.9
+2050,Clothing,460.9,Boyd PLC,4.8
+2051,Beauty,485.55,Becker-Cabrera,4.8
+2052,Sports,137.81,Valdez Group,3.4
+2053,Books,85.2,Franco and Sons,4.7
+2054,Books,729.3,"Livingston, Jones and Arnold",4.1
+2055,Books,498.98,"Blankenship, Russo and Walker",3.4
+2056,Clothing,439.67,Villarreal Ltd,1.0
+2057,Books,730.86,"Mccormick, Boone and Hubbard",4.1
+2058,Electronics,766.69,Nelson Ltd,3.8
+2059,Sports,163.11,"Pitts, Whitaker and Jackson",3.5
+2060,Electronics,612.17,"Pitts, Whitaker and Jackson",4.0
+2061,Health,139.68,Young-Richards,3.1
+2062,Sports,752.62,"Powers, Henry and Mitchell",3.8
+2063,Electronics,658.67,"Anderson, Soto and Dixon",4.7
+2064,Sports,956.83,"Turner, Davis and Obrien",2.5
+2065,Health,73.61,Jones-Nolan,3.8
+2066,Food,61.77,"Cunningham, Bennett and Abbott",2.9
+2067,Clothing,285.78,Pruitt Group,3.7
+2068,Clothing,265.4,White LLC,4.1
+2069,Books,250.74,"Cook, Williams and Reynolds",1.2
+2070,Home & Kitchen,906.72,White LLC,3.6
+2071,Books,253.3,Donaldson-Jones,1.9
+2072,Toys,275.59,Young-Richards,3.7
+2073,Electronics,760.6,Wilson-Pacheco,2.9
+2074,Sports,452.49,Hardy Inc,4.1
+2075,Home & Kitchen,777.83,"Turner, Davis and Obrien",1.5
+2076,Health,70.04,Hess-Mullins,3.5
+2077,Toys,490.13,"Cook, Williams and Reynolds",2.1
+2078,Health,38.45,"Anderson, Soto and Dixon",4.4
+2079,Clothing,67.34,Pruitt Group,4.7
+2080,Clothing,906.91,"Turner, Davis and Obrien",5.0
+2081,Books,143.55,Franco and Sons,4.2
+2082,Electronics,534.76,"Mullen, Gilbert and Lewis",4.0
+2083,Home & Kitchen,414.04,Cooper PLC,1.9
+2084,Automotive,350.61,Hall LLC,2.3
+2085,Toys,900.33,Hess-Mullins,2.9
+2086,Toys,26.71,Pruitt Group,4.1
+2087,Books,665.47,Salinas LLC,4.7
+2088,Clothing,963.58,Boyd PLC,1.8
+2089,Books,562.37,"Cunningham, Bennett and Abbott",4.7
+2090,Sports,937.14,"Turner, Davis and Obrien",3.8
+2091,Home & Kitchen,57.0,Duarte PLC,3.4
+2092,Electronics,421.7,Hall LLC,1.8
+2093,Food,263.86,Jones-Nolan,1.2
+2094,Beauty,732.17,Mcdaniel Group,3.3
+2095,Beauty,981.39,Ramirez and Sons,3.6
+2096,Books,260.25,"Coleman, Mason and Smith",1.8
+2097,Sports,655.9,Vasquez-Gomez,3.2
+2098,Home & Kitchen,202.11,Young-Richards,4.4
+2099,Automotive,567.5,"Figueroa, Armstrong and Rodriguez",4.3
+2100,Beauty,466.61,Griffin-Chase,4.7
+2101,Home & Kitchen,972.15,"Edwards, Robinson and Shannon",2.5
+2102,Electronics,610.48,Chapman Ltd,2.3
+2103,Health,352.76,Taylor-Hughes,4.0
+2104,Sports,118.53,Roberts and Sons,2.7
+2105,Clothing,155.49,Chase-Nguyen,1.4
+2106,Home & Kitchen,229.19,White LLC,2.1
+2107,Electronics,254.71,"Blankenship, Russo and Walker",2.7
+2108,Automotive,851.36,"Beck, Cuevas and Navarro",2.2
+2109,Food,563.42,Hall LLC,2.3
+2110,Clothing,525.77,"Turner, Davis and Obrien",2.2
+2111,Food,119.2,"Powers, Henry and Mitchell",1.2
+2112,Automotive,860.84,Hall LLC,3.5
+2113,Electronics,724.2,Roberts and Sons,3.4
+2114,Beauty,72.33,"Cook, Williams and Reynolds",3.6
+2115,Food,709.3,"Anderson, Soto and Dixon",1.8
+2116,Clothing,545.82,Duarte PLC,2.2
+2117,Books,86.32,Scott-Brown,3.5
+2118,Toys,461.01,"Mullen, Gilbert and Lewis",3.4
+2119,Home & Kitchen,487.27,Cooper PLC,3.0
+2120,Beauty,169.95,Duarte PLC,2.4
+2121,Food,945.97,"Livingston, Jones and Arnold",4.7
+2122,Health,850.73,Hess-Mullins,2.4
+2123,Home & Kitchen,670.68,"Cook, Williams and Reynolds",2.8
+2124,Books,464.98,"Mullen, Gilbert and Lewis",3.7
+2125,Automotive,414.71,Pena Ltd,3.2
+2126,Toys,652.72,White LLC,2.4
+2127,Electronics,547.7,"Mullen, Gilbert and Lewis",2.7
+2128,Books,66.96,"Cook, Williams and Reynolds",4.2
+2129,Books,514.94,"Beck, Cuevas and Navarro",2.1
+2130,Automotive,807.37,Boyd PLC,1.6
+2131,Sports,461.94,Lee Inc,2.3
+2132,Automotive,56.7,"Turner, Davis and Obrien",4.4
+2133,Sports,787.35,Chapman Ltd,1.4
+2134,Sports,205.36,"Mullen, Gilbert and Lewis",5.0
+2135,Beauty,262.33,"Edwards, Robinson and Shannon",3.2
+2136,Beauty,168.88,"Shields, Thompson and Brown",4.9
+2137,Clothing,333.56,Becker-Cabrera,4.8
+2138,Food,757.97,Holmes-Madden,2.8
+2139,Food,521.79,Young-Richards,1.8
+2140,Electronics,208.86,"Cook, Williams and Reynolds",1.7
+2141,Food,878.44,Salinas LLC,2.0
+2142,Beauty,880.18,"Coleman, Mason and Smith",3.8
+2143,Clothing,871.23,Chase-Nguyen,2.1
+2144,Clothing,242.6,"Mccormick, Boone and Hubbard",2.4
+2145,Sports,453.98,Griffin-Chase,2.8
+2146,Automotive,985.06,White LLC,4.7
+2147,Electronics,773.15,Griffin-Chase,1.8
+2148,Sports,32.03,"Turner, Davis and Obrien",1.0
+2149,Automotive,69.88,Hardy Inc,1.2
+2150,Food,466.61,"Coleman, Mason and Smith",4.6
+2151,Sports,909.67,Hardy Inc,3.6
+2152,Home & Kitchen,541.01,Wilson-Pacheco,2.1
+2153,Food,500.32,"Powers, Henry and Mitchell",1.7
+2154,Automotive,109.95,Mcdaniel Group,2.2
+2155,Electronics,658.5,Lee Inc,1.5
+2156,Automotive,822.99,Roberts and Sons,4.8
+2157,Sports,383.52,Villarreal Ltd,4.1
+2158,Sports,776.73,Hardy Inc,2.8
+2159,Books,964.65,Mcdaniel Group,4.5
+2160,Electronics,207.75,"Livingston, Jones and Arnold",2.0
+2161,Health,525.71,"Edwards, Robinson and Shannon",3.9
+2162,Food,290.7,Hess-Mullins,4.4
+2163,Clothing,793.89,"Mullen, Gilbert and Lewis",2.4
+2164,Electronics,579.71,Pena Ltd,4.0
+2165,Clothing,636.41,Lee Inc,2.2
+2166,Electronics,798.92,"Mullen, Gilbert and Lewis",2.2
+2167,Electronics,398.99,"Powers, Henry and Mitchell",1.4
+2168,Automotive,915.51,Villarreal Ltd,2.8
+2169,Electronics,535.36,"Coleman, Mason and Smith",3.9
+2170,Books,162.17,Lee Inc,4.8
+2171,Health,697.42,"Anderson, Soto and Dixon",3.4
+2172,Sports,794.3,Cooper PLC,4.5
+2173,Toys,320.18,"Anderson, Soto and Dixon",4.3
+2174,Clothing,857.89,Duarte PLC,1.7
+2175,Sports,906.61,Chase-Nguyen,2.9
+2176,Toys,280.52,"Blankenship, Russo and Walker",1.5
+2177,Health,983.6,Mcdaniel Group,3.7
+2178,Health,145.01,Donaldson-Jones,4.8
+2179,Clothing,206.01,Ramirez and Sons,1.5
+2180,Clothing,188.3,"Cunningham, Bennett and Abbott",3.9
+2181,Health,894.52,Hall LLC,3.5
+2182,Toys,656.02,"Edwards, Robinson and Shannon",3.3
+2183,Electronics,156.34,Wilson-Pacheco,2.6
+2184,Food,443.12,Mcdaniel Group,2.4
+2185,Home & Kitchen,617.22,Young-Solomon,1.2
+2186,Sports,88.05,Chapman Ltd,1.9
+2187,Automotive,883.0,Villarreal Ltd,1.1
+2188,Sports,804.59,Jones-Nolan,3.3
+2189,Automotive,507.68,Holmes-Madden,1.4
+2190,Toys,967.29,Cooper PLC,4.5
+2191,Automotive,420.67,Hardy Inc,3.1
+2192,Clothing,984.19,Becker-Cabrera,3.8
+2193,Food,669.58,Young-Solomon,2.6
+2194,Food,636.5,"Coleman, Mason and Smith",3.2
+2195,Clothing,170.13,Cooper PLC,4.8
+2196,Books,882.52,Lee Inc,1.3
+2197,Toys,430.35,"Coleman, Mason and Smith",2.0
+2198,Books,166.42,"Figueroa, Armstrong and Rodriguez",4.1
+2199,Books,17.54,"Turner, Davis and Obrien",1.4
+2200,Sports,561.96,"Coleman, Mason and Smith",1.3
+2201,Health,529.76,"Cunningham, Bennett and Abbott",2.4
+2202,Sports,720.76,Becker-Cabrera,1.4
+2203,Health,890.81,"Edwards, Robinson and Shannon",3.3
+2204,Home & Kitchen,84.01,"Shields, Thompson and Brown",1.9
+2205,Automotive,732.84,Donaldson-Jones,4.6
+2206,Health,191.47,Chapman Ltd,4.1
+2207,Clothing,858.89,"Blankenship, Russo and Walker",3.8
+2208,Sports,819.97,Hess-Mullins,3.5
+2209,Toys,543.09,"Mccormick, Boone and Hubbard",4.5
+2210,Automotive,711.69,Cooper PLC,1.9
+2211,Home & Kitchen,317.78,Mcdaniel Group,4.5
+2212,Health,473.81,York-Barnett,4.2
+2213,Home & Kitchen,822.53,"Cook, Williams and Reynolds",4.0
+2214,Toys,461.97,"Pitts, Whitaker and Jackson",3.2
+2215,Books,361.01,Boyd PLC,2.0
+2216,Food,496.74,Hess-Mullins,2.7
+2217,Toys,829.11,Lee Inc,4.2
+2218,Beauty,338.53,Nelson Ltd,1.1
+2219,Toys,177.89,"Edwards, Robinson and Shannon",4.1
+2220,Home & Kitchen,713.45,Hardy Inc,2.0
+2221,Clothing,826.85,Young-Richards,1.6
+2222,Sports,105.13,Franco and Sons,1.5
+2223,Clothing,243.67,"Turner, Davis and Obrien",1.1
+2224,Home & Kitchen,146.26,Villarreal Ltd,3.1
+2225,Sports,351.2,Ramirez and Sons,1.9
+2226,Beauty,453.1,Mcdaniel Group,5.0
+2227,Food,750.08,"Mccormick, Boone and Hubbard",3.3
+2228,Automotive,652.89,Chapman Ltd,1.6
+2229,Home & Kitchen,622.82,Boyd PLC,3.8
+2230,Health,355.61,King-Wilson,4.6
+2231,Home & Kitchen,842.24,Chapman Ltd,4.0
+2232,Home & Kitchen,473.93,Nelson Ltd,1.3
+2233,Sports,979.21,Donaldson-Jones,4.6
+2234,Electronics,635.97,"Shields, Thompson and Brown",4.2
+2235,Toys,130.63,Ramirez and Sons,1.6
+2236,Electronics,677.8,Valdez Group,1.2
+2237,Beauty,328.48,Pena Ltd,3.2
+2238,Health,687.9,Franco and Sons,1.6
+2239,Food,74.29,"Anderson, Soto and Dixon",4.3
+2240,Books,179.01,Valdez Group,2.4
+2241,Beauty,856.46,Young-Richards,4.7
+2242,Books,231.04,Chase-Nguyen,3.3
+2243,Books,837.86,"Anderson, Soto and Dixon",1.7
+2244,Food,282.88,York-Barnett,1.6
+2245,Clothing,644.67,Nelson Ltd,3.3
+2246,Electronics,695.68,"Turner, Davis and Obrien",4.0
+2247,Home & Kitchen,515.09,Franco and Sons,4.1
+2248,Automotive,308.78,Mcdaniel Group,2.1
+2249,Books,216.58,Nelson Ltd,1.8
+2250,Health,38.02,York-Barnett,1.1
+2251,Beauty,307.43,Valdez Group,3.7
+2252,Clothing,654.9,"Miller, Oconnell and Lynch",1.3
+2253,Books,938.61,Moreno Group,2.7
+2254,Clothing,871.85,"Pitts, Whitaker and Jackson",3.4
+2255,Clothing,767.23,"Pitts, Whitaker and Jackson",4.7
+2256,Books,789.51,Hess-Mullins,2.2
+2257,Sports,666.66,Boyd PLC,2.0
+2258,Toys,263.99,Young-Solomon,3.6
+2259,Health,907.66,"Livingston, Jones and Arnold",3.5
+2260,Home & Kitchen,672.38,Mcdaniel Group,2.3
+2261,Home & Kitchen,562.64,"Beck, Cuevas and Navarro",4.7
+2262,Health,115.43,Cooper PLC,4.4
+2263,Sports,449.82,"Beck, Cuevas and Navarro",1.9
+2264,Home & Kitchen,463.06,"Cunningham, Bennett and Abbott",2.0
+2265,Clothing,865.24,King-Wilson,3.0
+2266,Food,548.91,Ramirez and Sons,4.1
+2267,Beauty,383.5,Pena Ltd,1.2
+2268,Electronics,976.92,Becker-Cabrera,3.8
+2269,Home & Kitchen,115.17,"Mccormick, Boone and Hubbard",3.6
+2270,Health,425.44,Young-Richards,1.9
+2271,Food,46.81,Hardy Inc,3.7
+2272,Books,741.2,York-Barnett,4.8
+2273,Toys,918.49,Cooper PLC,1.2
+2274,Health,283.64,Villarreal Ltd,2.3
+2275,Clothing,859.05,"Turner, Davis and Obrien",2.8
+2276,Toys,295.76,Pena Ltd,4.6
+2277,Beauty,911.22,"Livingston, Jones and Arnold",4.8
+2278,Beauty,755.19,Jones-Nolan,2.8
+2279,Sports,805.88,Lee Inc,4.0
+2280,Automotive,22.92,Moreno Group,3.1
+2281,Sports,963.0,"Beck, Cuevas and Navarro",3.2
+2282,Food,728.04,"Coleman, Mason and Smith",2.1
+2283,Toys,308.23,Valdez Group,1.9
+2284,Automotive,830.25,Pruitt Group,2.2
+2285,Books,285.11,Holmes-Madden,3.2
+2286,Clothing,873.39,"Anderson, Soto and Dixon",1.1
+2287,Toys,117.02,Griffin-Chase,4.6
+2288,Sports,705.17,Becker-Cabrera,1.6
+2289,Electronics,542.99,"Pitts, Whitaker and Jackson",1.9
+2290,Automotive,101.05,Becker-Cabrera,3.1
+2291,Automotive,245.68,"Cook, Williams and Reynolds",3.8
+2292,Clothing,17.34,"Miller, Oconnell and Lynch",1.4
+2293,Home & Kitchen,471.42,"Mullen, Gilbert and Lewis",2.3
+2294,Beauty,304.76,Jones-Nolan,4.9
+2295,Beauty,600.37,Boyd PLC,2.0
+2296,Electronics,300.75,Donaldson-Jones,2.3
+2297,Food,303.42,Pruitt Group,4.3
+2298,Food,744.48,Scott-Brown,1.2
+2299,Books,52.9,"Beck, Cuevas and Navarro",2.9
+2300,Toys,903.38,"Blankenship, Russo and Walker",2.5
+2301,Health,853.0,"Cook, Williams and Reynolds",2.3
+2302,Home & Kitchen,669.47,Scott-Brown,2.1
+2303,Sports,595.26,Hall LLC,1.4
+2304,Health,892.84,"Powers, Henry and Mitchell",2.3
+2305,Health,189.4,"Shields, Thompson and Brown",1.2
+2306,Automotive,83.57,Boyd PLC,4.1
+2307,Electronics,243.31,Mcdaniel Group,2.6
+2308,Beauty,795.61,"Powers, Henry and Mitchell",2.8
+2309,Books,39.5,Young-Solomon,4.6
+2310,Food,584.89,"Turner, Davis and Obrien",3.6
+2311,Electronics,995.46,Nelson Ltd,1.0
+2312,Automotive,856.42,Salinas LLC,4.8
+2313,Sports,523.84,"Miller, Oconnell and Lynch",1.9
+2314,Books,68.32,"Blankenship, Russo and Walker",1.4
+2315,Automotive,832.22,Mcdaniel Group,4.1
+2316,Beauty,600.98,Young-Solomon,3.0
+2317,Beauty,119.36,Franco and Sons,2.7
+2318,Beauty,98.39,Cooper PLC,2.0
+2319,Electronics,910.08,"Miller, Oconnell and Lynch",3.2
+2320,Electronics,670.85,Roberts and Sons,2.1
+2321,Food,830.14,"Miller, Oconnell and Lynch",4.6
+2322,Food,879.58,Moreno Group,1.9
+2323,Sports,573.91,"Livingston, Jones and Arnold",4.5
+2324,Books,519.86,York-Barnett,3.2
+2325,Clothing,433.28,Hess-Mullins,4.3
+2326,Clothing,320.36,Jones-Nolan,3.9
+2327,Automotive,437.42,Ramirez and Sons,3.8
+2328,Beauty,775.01,Holmes-Madden,2.3
+2329,Books,603.91,"Anderson, Soto and Dixon",1.9
+2330,Health,893.06,Pena Ltd,1.8
+2331,Electronics,446.16,"Cook, Williams and Reynolds",4.4
+2332,Toys,609.05,Taylor-Hughes,4.3
+2333,Home & Kitchen,633.15,York-Barnett,2.8
+2334,Sports,593.74,"Powers, Henry and Mitchell",1.5
+2335,Beauty,704.12,King-Wilson,2.5
+2336,Beauty,241.25,"Edwards, Robinson and Shannon",3.5
+2337,Beauty,514.8,Jones-Nolan,2.8
+2338,Electronics,108.7,Young-Solomon,4.1
+2339,Electronics,387.59,Pruitt Group,5.0
+2340,Home & Kitchen,490.23,Nelson Ltd,1.8
+2341,Health,653.96,"Beck, Cuevas and Navarro",2.8
+2342,Books,950.78,Jones-Nolan,2.7
+2343,Beauty,602.65,Taylor-Hughes,2.2
+2344,Clothing,744.88,"Mccormick, Boone and Hubbard",1.8
+2345,Food,508.73,Pena Ltd,1.3
+2346,Clothing,635.93,"Powers, Henry and Mitchell",4.5
+2347,Automotive,75.58,Donaldson-Jones,2.7
+2348,Clothing,258.12,Chapman Ltd,3.0
+2349,Automotive,365.04,Scott-Brown,4.7
+2350,Toys,475.13,Salinas LLC,4.1
+2351,Food,50.42,Young-Richards,1.5
+2352,Clothing,144.32,Chapman Ltd,3.3
+2353,Toys,280.43,Chase-Nguyen,2.8
+2354,Sports,971.68,Jones-Nolan,4.2
+2355,Books,334.69,Wilson-Pacheco,3.9
+2356,Toys,484.63,Young-Richards,3.8
+2357,Books,200.12,Pena Ltd,2.4
+2358,Clothing,612.73,"Mccormick, Boone and Hubbard",4.2
+2359,Health,284.28,Franco and Sons,1.2
+2360,Toys,210.96,"Blankenship, Russo and Walker",1.6
+2361,Food,518.99,White LLC,2.3
+2362,Clothing,10.48,Young-Solomon,1.3
+2363,Beauty,12.63,"Beck, Cuevas and Navarro",1.9
+2364,Electronics,222.97,Franco and Sons,4.3
+2365,Toys,41.54,Young-Solomon,4.8
+2366,Food,112.49,Young-Solomon,2.2
+2367,Sports,342.17,King-Wilson,2.1
+2368,Beauty,803.57,Boyd PLC,2.1
+2369,Sports,574.19,Hardy Inc,2.1
+2370,Clothing,515.1,"Mullen, Gilbert and Lewis",1.1
+2371,Electronics,297.02,"Anderson, Soto and Dixon",4.7
+2372,Toys,932.09,Mcdaniel Group,1.9
+2373,Toys,400.03,Pena Ltd,2.7
+2374,Health,91.66,King-Wilson,1.0
+2375,Health,618.98,"Beck, Cuevas and Navarro",4.4
+2376,Clothing,118.27,Chase-Nguyen,3.9
+2377,Clothing,348.5,"Blankenship, Russo and Walker",4.8
+2378,Electronics,509.87,Valdez Group,4.1
+2379,Health,874.85,Becker-Cabrera,2.3
+2380,Food,496.08,"Coleman, Mason and Smith",2.0
+2381,Food,703.75,"Turner, Davis and Obrien",3.8
+2382,Electronics,992.85,"Cunningham, Bennett and Abbott",2.5
+2383,Food,135.83,Young-Richards,3.3
+2384,Automotive,278.36,"Mullen, Gilbert and Lewis",1.0
+2385,Books,397.6,Franco and Sons,1.2
+2386,Electronics,424.72,Young-Richards,3.1
+2387,Electronics,413.97,Duarte PLC,3.3
+2388,Home & Kitchen,908.07,Cooper PLC,4.0
+2389,Beauty,715.46,Moreno Group,1.5
+2390,Beauty,609.87,Griffin-Chase,3.1
+2391,Automotive,312.83,Ramirez and Sons,1.8
+2392,Health,824.67,King-Wilson,1.4
+2393,Clothing,955.29,Wilson-Pacheco,2.6
+2394,Clothing,822.09,Ramirez and Sons,1.7
+2395,Sports,6.56,Valdez Group,1.9
+2396,Automotive,638.22,"Miller, Oconnell and Lynch",2.3
+2397,Electronics,55.88,"Pitts, Whitaker and Jackson",2.0
+2398,Automotive,261.32,"Pitts, Whitaker and Jackson",1.4
+2399,Automotive,64.23,"Mullen, Gilbert and Lewis",1.4
+2400,Automotive,605.78,Nelson Ltd,1.8
+2401,Beauty,688.16,"Miller, Oconnell and Lynch",1.2
+2402,Automotive,118.92,Moreno Group,3.5
+2403,Books,386.92,"Anderson, Soto and Dixon",2.1
+2404,Clothing,458.96,Moreno Group,2.1
+2405,Sports,372.21,Holmes-Madden,2.3
+2406,Books,125.42,Hall LLC,3.7
+2407,Sports,421.85,"Cook, Williams and Reynolds",4.5
+2408,Home & Kitchen,752.42,"Anderson, Soto and Dixon",4.0
+2409,Sports,75.65,King-Wilson,3.9
+2410,Clothing,84.78,York-Barnett,2.9
+2411,Clothing,358.0,Hess-Mullins,3.8
+2412,Automotive,942.02,Valdez Group,3.2
+2413,Toys,670.23,"Cunningham, Bennett and Abbott",1.9
+2414,Home & Kitchen,680.28,Holmes-Madden,1.8
+2415,Electronics,365.11,Chapman Ltd,2.2
+2416,Food,595.69,Lee Inc,4.6
+2417,Sports,15.08,"Mullen, Gilbert and Lewis",3.2
+2418,Toys,637.92,Moreno Group,3.9
+2419,Automotive,913.72,Griffin-Chase,2.4
+2420,Beauty,614.51,"Livingston, Jones and Arnold",2.6
+2421,Electronics,874.33,Duarte PLC,1.5
+2422,Health,725.35,Griffin-Chase,1.7
+2423,Toys,124.96,Hall LLC,4.3
+2424,Beauty,902.94,"Blankenship, Russo and Walker",3.3
+2425,Home & Kitchen,71.11,"Shields, Thompson and Brown",2.4
+2426,Automotive,536.3,Chapman Ltd,4.2
+2427,Electronics,146.43,York-Barnett,2.0
+2428,Electronics,16.65,Hardy Inc,4.9
+2429,Electronics,424.92,Becker-Cabrera,2.4
+2430,Home & Kitchen,298.57,Taylor-Hughes,2.3
+2431,Sports,488.57,Griffin-Chase,2.2
+2432,Health,579.31,Salinas LLC,1.5
+2433,Home & Kitchen,48.52,"Pitts, Whitaker and Jackson",1.4
+2434,Food,127.39,"Miller, Oconnell and Lynch",3.6
+2435,Health,560.85,Becker-Cabrera,4.5
+2436,Clothing,346.45,Boyd PLC,4.2
+2437,Automotive,730.53,Griffin-Chase,1.6
+2438,Home & Kitchen,654.03,Valdez Group,3.2
+2439,Beauty,846.38,"Livingston, Jones and Arnold",1.4
+2440,Health,694.03,Pruitt Group,1.2
+2441,Food,432.78,King-Wilson,3.6
+2442,Clothing,674.6,"Edwards, Robinson and Shannon",3.1
+2443,Sports,279.0,Taylor-Hughes,1.3
+2444,Beauty,309.78,Hess-Mullins,1.1
+2445,Health,790.04,"Figueroa, Armstrong and Rodriguez",5.0
+2446,Automotive,449.19,"Powers, Henry and Mitchell",1.1
+2447,Beauty,799.39,"Shields, Thompson and Brown",2.8
+2448,Clothing,823.31,Chapman Ltd,3.0
+2449,Beauty,858.27,"Cook, Williams and Reynolds",1.5
+2450,Books,917.05,"Shields, Thompson and Brown",1.7
+2451,Toys,433.83,"Livingston, Jones and Arnold",2.4
+2452,Sports,322.27,Jones-Nolan,4.0
+2453,Clothing,584.29,"Pitts, Whitaker and Jackson",3.0
+2454,Beauty,374.32,Moreno Group,3.6
+2455,Toys,603.07,White LLC,4.9
+2456,Toys,707.06,Mcdaniel Group,4.1
+2457,Beauty,689.96,Becker-Cabrera,2.7
+2458,Automotive,377.68,Nelson Ltd,2.8
+2459,Books,171.03,Donaldson-Jones,3.5
+2460,Home & Kitchen,433.38,York-Barnett,3.7
+2461,Books,146.88,Moreno Group,3.0
+2462,Beauty,890.65,Pena Ltd,3.6
+2463,Sports,349.15,Scott-Brown,1.1
+2464,Home & Kitchen,158.69,White LLC,2.7
+2465,Clothing,30.32,Holmes-Madden,2.1
+2466,Books,647.59,Becker-Cabrera,1.5
+2467,Beauty,638.72,"Turner, Davis and Obrien",1.4
+2468,Books,343.9,"Mccormick, Boone and Hubbard",3.4
+2469,Home & Kitchen,76.35,Pena Ltd,3.1
+2470,Food,412.58,Wilson-Pacheco,2.0
+2471,Health,314.66,Roberts and Sons,2.9
+2472,Books,678.74,Jones-Nolan,3.0
+2473,Clothing,607.75,York-Barnett,1.8
+2474,Clothing,367.77,Becker-Cabrera,3.6
+2475,Electronics,221.8,"Cook, Williams and Reynolds",4.1
+2476,Books,988.1,"Cook, Williams and Reynolds",4.2
+2477,Health,456.73,"Turner, Davis and Obrien",3.4
+2478,Automotive,689.83,"Blankenship, Russo and Walker",3.0
+2479,Toys,144.85,Mcdaniel Group,1.2
+2480,Health,488.16,Pruitt Group,2.2
+2481,Toys,32.4,Becker-Cabrera,1.4
+2482,Toys,507.93,Moreno Group,4.9
+2483,Food,964.2,Franco and Sons,1.5
+2484,Electronics,387.29,Hardy Inc,1.6
+2485,Health,43.8,"Beck, Cuevas and Navarro",4.6
+2486,Health,35.8,Donaldson-Jones,4.8
+2487,Food,391.05,Salinas LLC,4.1
+2488,Books,164.22,Franco and Sons,1.0
+2489,Books,28.24,Donaldson-Jones,1.0
+2490,Books,757.43,Hardy Inc,2.5
+2491,Sports,461.23,Boyd PLC,1.6
+2492,Toys,292.8,Becker-Cabrera,1.1
+2493,Sports,900.58,Salinas LLC,2.9
+2494,Electronics,120.56,Boyd PLC,4.8
+2495,Food,956.14,"Anderson, Soto and Dixon",2.3
+2496,Health,317.4,Hardy Inc,3.6
+2497,Toys,888.96,Holmes-Madden,3.6
+2498,Sports,604.93,Wilson-Pacheco,2.0
+2499,Sports,827.57,Villarreal Ltd,3.6
+2500,Beauty,984.09,"Livingston, Jones and Arnold",1.8
+2501,Sports,291.96,Chase-Nguyen,1.5
+2502,Automotive,961.33,Salinas LLC,3.8
+2503,Health,392.53,"Mullen, Gilbert and Lewis",1.5
+2504,Automotive,388.58,Villarreal Ltd,5.0
+2505,Health,343.69,"Anderson, Soto and Dixon",1.7
+2506,Food,543.7,"Blankenship, Russo and Walker",3.4
+2507,Health,158.37,Chase-Nguyen,2.6
+2508,Automotive,555.94,"Anderson, Soto and Dixon",1.5
+2509,Health,544.0,Holmes-Madden,1.1
+2510,Food,763.09,Franco and Sons,3.5
+2511,Food,834.48,"Anderson, Soto and Dixon",4.2
+2512,Electronics,443.24,"Livingston, Jones and Arnold",4.4
+2513,Health,305.82,Jones-Nolan,2.9
+2514,Beauty,263.04,Ramirez and Sons,4.1
+2515,Books,198.65,"Blankenship, Russo and Walker",3.7
+2516,Clothing,62.36,"Mccormick, Boone and Hubbard",3.9
+2517,Food,345.74,Hardy Inc,3.0
+2518,Home & Kitchen,273.9,Jones-Nolan,3.5
+2519,Books,966.59,"Pitts, Whitaker and Jackson",4.2
+2520,Toys,559.92,Villarreal Ltd,2.6
+2521,Health,350.54,Hall LLC,4.2
+2522,Automotive,582.57,Ramirez and Sons,3.4
+2523,Clothing,143.5,Pena Ltd,1.7
+2524,Home & Kitchen,446.82,York-Barnett,1.1
+2525,Books,628.1,Franco and Sons,2.5
+2526,Health,491.45,Hardy Inc,3.2
+2527,Electronics,404.77,Chapman Ltd,4.4
+2528,Toys,993.88,Hall LLC,1.5
+2529,Clothing,880.91,Lee Inc,4.2
+2530,Beauty,625.29,"Figueroa, Armstrong and Rodriguez",4.5
+2531,Electronics,571.53,Lee Inc,1.6
+2532,Home & Kitchen,622.56,Chase-Nguyen,4.4
+2533,Clothing,205.31,White LLC,5.0
+2534,Electronics,398.16,Hardy Inc,3.9
+2535,Toys,44.26,"Turner, Davis and Obrien",4.1
+2536,Beauty,478.17,"Turner, Davis and Obrien",5.0
+2537,Electronics,545.31,"Edwards, Robinson and Shannon",3.4
+2538,Sports,231.61,Lee Inc,2.2
+2539,Beauty,964.21,Valdez Group,4.4
+2540,Home & Kitchen,909.91,"Mccormick, Boone and Hubbard",3.5
+2541,Toys,723.53,"Blankenship, Russo and Walker",3.3
+2542,Health,535.72,Scott-Brown,2.0
+2543,Automotive,870.62,"Miller, Oconnell and Lynch",4.0
+2544,Automotive,135.0,"Shields, Thompson and Brown",1.3
+2545,Automotive,791.56,Pruitt Group,4.7
+2546,Clothing,129.2,"Powers, Henry and Mitchell",2.3
+2547,Home & Kitchen,795.24,Boyd PLC,1.5
+2548,Toys,279.39,"Edwards, Robinson and Shannon",2.8
+2549,Beauty,877.71,"Pitts, Whitaker and Jackson",1.2
+2550,Clothing,944.32,Roberts and Sons,3.7
+2551,Home & Kitchen,153.05,Chapman Ltd,4.6
+2552,Health,465.36,Hess-Mullins,4.3
+2553,Sports,981.08,Duarte PLC,1.5
+2554,Toys,485.99,Becker-Cabrera,1.5
+2555,Automotive,864.23,Pruitt Group,4.3
+2556,Electronics,590.79,Nelson Ltd,4.7
+2557,Toys,378.45,"Mccormick, Boone and Hubbard",2.8
+2558,Food,289.35,Pena Ltd,3.0
+2559,Home & Kitchen,207.21,"Anderson, Soto and Dixon",2.3
+2560,Books,762.99,Valdez Group,4.6
+2561,Health,389.61,"Powers, Henry and Mitchell",3.6
+2562,Sports,513.72,"Edwards, Robinson and Shannon",2.2
+2563,Health,494.86,Salinas LLC,2.2
+2564,Toys,579.39,Valdez Group,4.6
+2565,Books,866.25,"Mccormick, Boone and Hubbard",1.1
+2566,Food,980.84,"Coleman, Mason and Smith",2.3
+2567,Beauty,410.55,Hardy Inc,3.2
+2568,Electronics,828.38,Moreno Group,1.6
+2569,Books,765.71,Hardy Inc,1.4
+2570,Home & Kitchen,575.66,"Blankenship, Russo and Walker",4.3
+2571,Automotive,956.27,"Turner, Davis and Obrien",4.6
+2572,Food,204.47,"Blankenship, Russo and Walker",4.3
+2573,Electronics,113.72,White LLC,4.6
+2574,Sports,854.69,Pruitt Group,3.2
+2575,Automotive,441.95,Young-Richards,4.2
+2576,Toys,847.73,Scott-Brown,2.5
+2577,Books,893.62,Vasquez-Gomez,3.7
+2578,Electronics,67.15,Jones-Nolan,5.0
+2579,Clothing,884.05,"Pitts, Whitaker and Jackson",1.9
+2580,Beauty,451.08,Cooper PLC,2.6
+2581,Beauty,512.88,"Shields, Thompson and Brown",2.9
+2582,Food,628.46,Jones-Nolan,1.6
+2583,Sports,926.75,"Edwards, Robinson and Shannon",1.3
+2584,Food,24.02,"Anderson, Soto and Dixon",4.3
+2585,Clothing,479.46,York-Barnett,4.9
+2586,Home & Kitchen,689.28,Pena Ltd,2.6
+2587,Sports,724.09,Vasquez-Gomez,1.4
+2588,Health,694.07,Donaldson-Jones,1.3
+2589,Home & Kitchen,138.76,"Mccormick, Boone and Hubbard",4.6
+2590,Sports,302.9,Boyd PLC,2.9
+2591,Sports,361.92,Ramirez and Sons,2.3
+2592,Clothing,805.42,Nelson Ltd,2.9
+2593,Toys,282.37,Roberts and Sons,2.3
+2594,Clothing,214.65,York-Barnett,3.0
+2595,Sports,957.66,Taylor-Hughes,4.4
+2596,Electronics,13.82,Boyd PLC,3.4
+2597,Home & Kitchen,997.83,Valdez Group,3.8
+2598,Clothing,678.44,Holmes-Madden,2.5
+2599,Toys,829.33,"Pitts, Whitaker and Jackson",4.0
+2600,Books,298.15,"Livingston, Jones and Arnold",3.7
+2601,Food,19.24,"Cunningham, Bennett and Abbott",1.5
+2602,Sports,739.18,Taylor-Hughes,3.3
+2603,Health,834.97,"Turner, Davis and Obrien",2.0
+2604,Books,741.77,"Figueroa, Armstrong and Rodriguez",4.2
+2605,Beauty,147.14,Hardy Inc,2.7
+2606,Automotive,754.66,Chase-Nguyen,5.0
+2607,Toys,770.08,Pena Ltd,1.4
+2608,Health,660.25,York-Barnett,4.1
+2609,Automotive,767.29,Pena Ltd,3.7
+2610,Toys,846.69,Hess-Mullins,4.1
+2611,Electronics,615.54,Hardy Inc,2.2
+2612,Food,93.16,"Livingston, Jones and Arnold",3.0
+2613,Books,490.19,Hall LLC,4.2
+2614,Home & Kitchen,82.26,Griffin-Chase,1.9
+2615,Toys,410.51,Vasquez-Gomez,1.9
+2616,Home & Kitchen,410.07,"Blankenship, Russo and Walker",3.2
+2617,Food,70.68,King-Wilson,3.1
+2618,Sports,352.08,Villarreal Ltd,2.1
+2619,Beauty,115.44,Nelson Ltd,2.2
+2620,Books,809.19,Moreno Group,2.1
+2621,Food,947.95,Taylor-Hughes,4.1
+2622,Food,76.95,Chapman Ltd,3.6
+2623,Electronics,955.34,Moreno Group,4.3
+2624,Automotive,524.96,Duarte PLC,4.9
+2625,Beauty,303.07,Moreno Group,2.9
+2626,Books,81.48,Salinas LLC,1.3
+2627,Sports,503.12,Scott-Brown,1.2
+2628,Sports,795.54,Hall LLC,2.2
+2629,Clothing,708.55,Roberts and Sons,4.7
+2630,Food,54.97,Pruitt Group,3.1
+2631,Toys,77.54,Pruitt Group,2.1
+2632,Electronics,405.86,Valdez Group,2.6
+2633,Beauty,298.81,"Edwards, Robinson and Shannon",3.4
+2634,Sports,236.22,"Shields, Thompson and Brown",3.6
+2635,Books,284.6,"Shields, Thompson and Brown",1.6
+2636,Clothing,804.47,Duarte PLC,4.9
+2637,Books,929.58,Mcdaniel Group,3.2
+2638,Electronics,408.08,"Figueroa, Armstrong and Rodriguez",1.5
+2639,Toys,906.58,Scott-Brown,4.6
+2640,Clothing,324.89,"Mccormick, Boone and Hubbard",1.3
+2641,Clothing,479.05,Hall LLC,4.6
+2642,Automotive,229.9,"Livingston, Jones and Arnold",5.0
+2643,Beauty,642.27,Villarreal Ltd,3.8
+2644,Clothing,979.09,"Edwards, Robinson and Shannon",4.1
+2645,Automotive,605.48,"Beck, Cuevas and Navarro",2.3
+2646,Automotive,361.03,Duarte PLC,4.8
+2647,Electronics,649.58,Villarreal Ltd,3.1
+2648,Home & Kitchen,127.31,Griffin-Chase,3.9
+2649,Books,889.22,"Powers, Henry and Mitchell",4.7
+2650,Toys,505.57,"Pitts, Whitaker and Jackson",4.9
+2651,Health,452.1,"Anderson, Soto and Dixon",4.3
+2652,Books,587.94,Young-Solomon,2.2
+2653,Clothing,626.66,Becker-Cabrera,4.9
+2654,Toys,76.42,"Blankenship, Russo and Walker",3.5
+2655,Sports,684.2,Young-Solomon,4.7
+2656,Home & Kitchen,245.72,"Blankenship, Russo and Walker",3.7
+2657,Sports,715.38,"Shields, Thompson and Brown",2.2
+2658,Sports,823.42,Franco and Sons,2.5
+2659,Beauty,804.94,"Shields, Thompson and Brown",3.2
+2660,Books,554.74,Valdez Group,4.2
+2661,Health,522.57,"Pitts, Whitaker and Jackson",2.3
+2662,Electronics,147.16,Pena Ltd,3.3
+2663,Health,776.47,King-Wilson,2.4
+2664,Sports,275.05,"Miller, Oconnell and Lynch",4.3
+2665,Clothing,499.21,Salinas LLC,2.9
+2666,Home & Kitchen,287.85,Cooper PLC,1.3
+2667,Food,138.16,Nelson Ltd,1.7
+2668,Health,631.41,Chase-Nguyen,1.2
+2669,Sports,59.06,Chapman Ltd,3.0
+2670,Home & Kitchen,749.9,Mcdaniel Group,1.4
+2671,Toys,321.0,Holmes-Madden,1.5
+2672,Books,5.13,"Mccormick, Boone and Hubbard",4.8
+2673,Automotive,513.57,"Mccormick, Boone and Hubbard",4.5
+2674,Beauty,51.62,Young-Richards,2.8
+2675,Home & Kitchen,279.79,"Pitts, Whitaker and Jackson",4.9
+2676,Clothing,708.44,Griffin-Chase,1.0
+2677,Clothing,67.38,Hess-Mullins,3.5
+2678,Home & Kitchen,840.14,Wilson-Pacheco,3.5
+2679,Clothing,8.8,"Coleman, Mason and Smith",2.8
+2680,Books,250.59,Taylor-Hughes,2.6
+2681,Clothing,742.2,"Coleman, Mason and Smith",2.8
+2682,Health,319.69,Duarte PLC,2.7
+2683,Automotive,106.38,"Cook, Williams and Reynolds",3.9
+2684,Clothing,363.43,Pena Ltd,1.5
+2685,Automotive,274.04,Roberts and Sons,1.8
+2686,Sports,843.5,Franco and Sons,1.7
+2687,Electronics,316.78,Taylor-Hughes,2.0
+2688,Books,789.99,Chapman Ltd,3.1
+2689,Electronics,892.41,Hess-Mullins,1.4
+2690,Sports,436.65,King-Wilson,4.5
+2691,Books,910.39,"Pitts, Whitaker and Jackson",2.2
+2692,Home & Kitchen,380.43,"Cunningham, Bennett and Abbott",1.7
+2693,Home & Kitchen,964.26,"Mccormick, Boone and Hubbard",3.7
+2694,Automotive,93.84,"Mullen, Gilbert and Lewis",1.2
+2695,Sports,688.58,"Miller, Oconnell and Lynch",3.5
+2696,Automotive,496.34,"Beck, Cuevas and Navarro",3.8
+2697,Beauty,390.71,Boyd PLC,1.9
+2698,Clothing,634.55,Hess-Mullins,1.2
+2699,Food,705.34,Ramirez and Sons,2.5
+2700,Beauty,9.34,"Miller, Oconnell and Lynch",1.4
+2701,Clothing,171.12,Pruitt Group,1.5
+2702,Books,714.48,Hardy Inc,2.0
+2703,Automotive,668.05,Chase-Nguyen,2.2
+2704,Books,966.22,Pruitt Group,3.1
+2705,Books,762.23,Salinas LLC,3.7
+2706,Clothing,951.02,Young-Solomon,3.4
+2707,Sports,704.03,"Powers, Henry and Mitchell",1.6
+2708,Clothing,301.56,"Edwards, Robinson and Shannon",1.7
+2709,Toys,109.84,Roberts and Sons,4.5
+2710,Home & Kitchen,782.91,Scott-Brown,3.2
+2711,Home & Kitchen,645.93,"Cook, Williams and Reynolds",4.5
+2712,Beauty,52.95,Young-Solomon,2.5
+2713,Home & Kitchen,363.25,Boyd PLC,3.5
+2714,Clothing,957.02,Cooper PLC,3.1
+2715,Health,502.9,"Coleman, Mason and Smith",2.3
+2716,Automotive,435.57,Duarte PLC,2.9
+2717,Clothing,460.41,Jones-Nolan,3.0
+2718,Clothing,212.84,Vasquez-Gomez,1.8
+2719,Food,371.86,Cooper PLC,2.3
+2720,Automotive,372.96,"Pitts, Whitaker and Jackson",4.2
+2721,Toys,57.09,Mcdaniel Group,4.7
+2722,Home & Kitchen,768.73,"Blankenship, Russo and Walker",2.4
+2723,Automotive,419.42,Valdez Group,2.2
+2724,Home & Kitchen,823.07,Cooper PLC,1.8
+2725,Beauty,851.1,"Cunningham, Bennett and Abbott",3.7
+2726,Automotive,215.93,Vasquez-Gomez,2.3
+2727,Home & Kitchen,659.07,"Mccormick, Boone and Hubbard",5.0
+2728,Toys,474.92,Hall LLC,2.3
+2729,Electronics,880.76,Salinas LLC,2.6
+2730,Books,219.66,"Anderson, Soto and Dixon",3.4
+2731,Books,679.42,"Cunningham, Bennett and Abbott",4.2
+2732,Toys,609.71,Scott-Brown,2.9
+2733,Food,298.82,King-Wilson,2.7
+2734,Electronics,140.92,Scott-Brown,5.0
+2735,Beauty,653.38,"Shields, Thompson and Brown",1.0
+2736,Toys,739.9,Boyd PLC,4.6
+2737,Books,319.05,"Cunningham, Bennett and Abbott",1.6
+2738,Books,646.61,Chapman Ltd,4.1
+2739,Books,398.16,Young-Solomon,3.5
+2740,Sports,714.64,Vasquez-Gomez,2.4
+2741,Toys,203.22,White LLC,4.5
+2742,Clothing,890.76,Wilson-Pacheco,1.1
+2743,Beauty,290.97,"Beck, Cuevas and Navarro",1.9
+2744,Books,370.95,"Anderson, Soto and Dixon",3.3
+2745,Home & Kitchen,62.8,"Pitts, Whitaker and Jackson",2.4
+2746,Toys,115.95,Nelson Ltd,3.4
+2747,Sports,518.28,"Pitts, Whitaker and Jackson",1.1
+2748,Toys,271.25,"Mccormick, Boone and Hubbard",1.5
+2749,Beauty,836.3,Jones-Nolan,1.5
+2750,Sports,19.62,"Cunningham, Bennett and Abbott",1.8
+2751,Beauty,382.2,"Blankenship, Russo and Walker",2.8
+2752,Toys,340.66,Hall LLC,4.0
+2753,Clothing,24.23,"Mullen, Gilbert and Lewis",4.6
+2754,Beauty,128.75,King-Wilson,4.3
+2755,Sports,416.57,Mcdaniel Group,1.8
+2756,Sports,495.4,"Turner, Davis and Obrien",2.8
+2757,Beauty,407.27,Ramirez and Sons,1.8
+2758,Health,533.28,Young-Richards,2.1
+2759,Toys,597.16,Hardy Inc,3.0
+2760,Health,14.87,"Turner, Davis and Obrien",1.3
+2761,Food,466.77,Jones-Nolan,1.9
+2762,Toys,963.68,"Edwards, Robinson and Shannon",4.7
+2763,Beauty,521.44,Mcdaniel Group,2.9
+2764,Electronics,679.15,Jones-Nolan,2.8
+2765,Beauty,315.3,Ramirez and Sons,1.1
+2766,Health,775.12,"Coleman, Mason and Smith",2.0
+2767,Clothing,774.06,Boyd PLC,4.5
+2768,Beauty,523.69,"Turner, Davis and Obrien",1.7
+2769,Beauty,976.13,Griffin-Chase,2.7
+2770,Clothing,129.92,Wilson-Pacheco,1.1
+2771,Beauty,21.86,Scott-Brown,2.9
+2772,Books,771.31,"Miller, Oconnell and Lynch",1.1
+2773,Electronics,808.12,Donaldson-Jones,4.3
+2774,Home & Kitchen,124.61,Pena Ltd,4.3
+2775,Electronics,269.25,"Mullen, Gilbert and Lewis",4.2
+2776,Beauty,22.46,"Mullen, Gilbert and Lewis",2.1
+2777,Books,296.84,King-Wilson,4.3
+2778,Toys,774.28,Duarte PLC,3.2
+2779,Beauty,520.37,"Beck, Cuevas and Navarro",2.5
+2780,Health,351.36,Young-Richards,3.5
+2781,Books,374.88,"Anderson, Soto and Dixon",1.0
+2782,Clothing,6.35,Moreno Group,1.6
+2783,Books,303.3,"Coleman, Mason and Smith",4.0
+2784,Clothing,648.23,Young-Solomon,2.0
+2785,Food,974.32,Ramirez and Sons,3.4
+2786,Home & Kitchen,847.83,White LLC,2.5
+2787,Automotive,28.48,Scott-Brown,4.4
+2788,Books,899.07,"Pitts, Whitaker and Jackson",4.8
+2789,Sports,784.28,Scott-Brown,4.5
+2790,Health,781.47,"Powers, Henry and Mitchell",2.1
+2791,Beauty,460.71,Cooper PLC,1.8
+2792,Health,401.02,"Powers, Henry and Mitchell",2.9
+2793,Electronics,306.4,Griffin-Chase,1.0
+2794,Automotive,70.37,Scott-Brown,1.1
+2795,Electronics,232.09,King-Wilson,3.2
+2796,Food,250.37,"Figueroa, Armstrong and Rodriguez",3.1
+2797,Automotive,486.66,"Mullen, Gilbert and Lewis",5.0
+2798,Automotive,748.71,Griffin-Chase,1.8
+2799,Electronics,476.44,Lee Inc,2.0
+2800,Clothing,62.56,Ramirez and Sons,1.5
+2801,Electronics,958.0,Lee Inc,4.7
+2802,Health,943.01,Mcdaniel Group,4.1
+2803,Clothing,786.26,Chapman Ltd,4.3
+2804,Health,991.37,"Turner, Davis and Obrien",4.6
+2805,Food,546.76,Franco and Sons,3.1
+2806,Beauty,962.95,Chase-Nguyen,2.8
+2807,Toys,80.23,Young-Richards,2.3
+2808,Clothing,368.85,Franco and Sons,3.4
+2809,Food,229.25,"Mccormick, Boone and Hubbard",2.8
+2810,Sports,199.85,Pruitt Group,2.8
+2811,Food,145.1,Duarte PLC,4.7
+2812,Electronics,624.3,Chapman Ltd,4.9
+2813,Electronics,782.42,Chapman Ltd,4.2
+2814,Toys,580.41,"Beck, Cuevas and Navarro",4.0
+2815,Food,151.23,Becker-Cabrera,3.7
+2816,Home & Kitchen,812.07,"Livingston, Jones and Arnold",1.7
+2817,Beauty,637.77,Hardy Inc,1.2
+2818,Electronics,391.22,"Miller, Oconnell and Lynch",3.8
+2819,Toys,675.76,White LLC,3.9
+2820,Beauty,263.61,"Beck, Cuevas and Navarro",1.2
+2821,Food,348.47,"Coleman, Mason and Smith",4.7
+2822,Food,917.9,"Beck, Cuevas and Navarro",1.4
+2823,Automotive,294.05,Boyd PLC,2.1
+2824,Toys,472.64,"Cook, Williams and Reynolds",3.7
+2825,Electronics,890.69,Jones-Nolan,1.7
+2826,Home & Kitchen,709.18,"Mccormick, Boone and Hubbard",1.2
+2827,Food,66.89,Duarte PLC,2.3
+2828,Home & Kitchen,151.57,Pruitt Group,4.1
+2829,Food,12.8,"Coleman, Mason and Smith",2.7
+2830,Electronics,632.77,"Shields, Thompson and Brown",3.6
+2831,Beauty,450.44,Young-Solomon,3.3
+2832,Books,138.6,"Blankenship, Russo and Walker",1.1
+2833,Beauty,958.14,Pena Ltd,5.0
+2834,Food,532.01,Villarreal Ltd,1.2
+2835,Health,245.68,"Shields, Thompson and Brown",4.9
+2836,Books,503.1,Salinas LLC,3.2
+2837,Books,681.22,Salinas LLC,4.9
+2838,Home & Kitchen,80.86,"Edwards, Robinson and Shannon",1.5
+2839,Toys,278.33,Taylor-Hughes,3.0
+2840,Home & Kitchen,807.93,"Anderson, Soto and Dixon",1.7
+2841,Home & Kitchen,462.37,Young-Solomon,1.2
+2842,Health,548.84,"Edwards, Robinson and Shannon",3.5
+2843,Beauty,435.65,Nelson Ltd,1.8
+2844,Beauty,48.68,Villarreal Ltd,3.4
+2845,Sports,169.92,Scott-Brown,1.4
+2846,Food,448.31,Roberts and Sons,2.3
+2847,Health,213.14,"Figueroa, Armstrong and Rodriguez",4.1
+2848,Sports,54.73,Pruitt Group,2.7
+2849,Electronics,844.43,Jones-Nolan,3.5
+2850,Food,981.29,Chapman Ltd,3.6
+2851,Food,794.18,"Coleman, Mason and Smith",4.4
+2852,Automotive,854.52,Roberts and Sons,2.3
+2853,Automotive,245.77,Hardy Inc,3.7
+2854,Clothing,960.82,Pruitt Group,4.8
+2855,Clothing,200.94,Villarreal Ltd,3.9
+2856,Home & Kitchen,951.67,"Shields, Thompson and Brown",3.0
+2857,Electronics,994.85,"Livingston, Jones and Arnold",3.5
+2858,Books,713.16,"Coleman, Mason and Smith",4.0
+2859,Books,981.24,Hall LLC,3.4
+2860,Automotive,571.69,"Miller, Oconnell and Lynch",1.1
+2861,Automotive,263.24,Jones-Nolan,1.8
+2862,Automotive,439.81,Chase-Nguyen,4.2
+2863,Health,595.59,Hall LLC,2.1
+2864,Toys,77.72,Valdez Group,3.9
+2865,Clothing,624.23,Becker-Cabrera,2.5
+2866,Health,981.27,Boyd PLC,3.1
+2867,Beauty,194.16,Cooper PLC,1.3
+2868,Books,793.63,Griffin-Chase,1.7
+2869,Food,908.36,Wilson-Pacheco,4.8
+2870,Clothing,943.98,York-Barnett,4.6
+2871,Sports,960.33,"Cunningham, Bennett and Abbott",3.6
+2872,Beauty,523.85,"Coleman, Mason and Smith",2.8
+2873,Clothing,977.42,Taylor-Hughes,3.7
+2874,Health,758.52,Moreno Group,3.5
+2875,Electronics,165.86,"Livingston, Jones and Arnold",3.3
+2876,Food,479.52,Becker-Cabrera,1.2
+2877,Clothing,719.74,Vasquez-Gomez,3.5
+2878,Toys,251.1,Roberts and Sons,4.1
+2879,Automotive,642.41,"Mccormick, Boone and Hubbard",5.0
+2880,Automotive,668.27,Vasquez-Gomez,1.0
+2881,Food,166.89,"Shields, Thompson and Brown",3.9
+2882,Health,567.26,"Miller, Oconnell and Lynch",3.3
+2883,Automotive,772.77,"Coleman, Mason and Smith",2.7
+2884,Clothing,501.4,Holmes-Madden,1.5
+2885,Sports,17.04,Duarte PLC,2.6
+2886,Books,13.99,"Anderson, Soto and Dixon",2.4
+2887,Books,360.24,"Livingston, Jones and Arnold",2.2
+2888,Beauty,926.56,Moreno Group,3.9
+2889,Home & Kitchen,232.53,"Shields, Thompson and Brown",3.8
+2890,Electronics,636.19,Hardy Inc,3.4
+2891,Food,225.97,"Turner, Davis and Obrien",4.8
+2892,Beauty,325.06,"Miller, Oconnell and Lynch",2.4
+2893,Home & Kitchen,848.8,Scott-Brown,2.0
+2894,Health,730.22,Donaldson-Jones,3.6
+2895,Toys,99.92,"Beck, Cuevas and Navarro",1.8
+2896,Toys,431.56,Chase-Nguyen,2.3
+2897,Electronics,34.02,"Figueroa, Armstrong and Rodriguez",1.9
+2898,Automotive,483.49,Donaldson-Jones,1.3
+2899,Clothing,664.12,"Coleman, Mason and Smith",4.3
+2900,Beauty,122.91,"Beck, Cuevas and Navarro",2.0
+2901,Beauty,292.44,Young-Solomon,2.9
+2902,Food,400.85,Wilson-Pacheco,1.2
+2903,Food,919.93,Mcdaniel Group,3.8
+2904,Toys,993.29,"Pitts, Whitaker and Jackson",2.3
+2905,Toys,49.69,"Mccormick, Boone and Hubbard",4.0
+2906,Sports,762.2,Taylor-Hughes,2.6
+2907,Sports,374.87,"Coleman, Mason and Smith",1.8
+2908,Automotive,395.5,"Blankenship, Russo and Walker",3.1
+2909,Sports,755.49,Taylor-Hughes,1.5
+2910,Clothing,918.83,Pruitt Group,2.8
+2911,Clothing,951.17,Roberts and Sons,2.3
+2912,Beauty,579.24,Pruitt Group,4.6
+2913,Books,360.34,"Figueroa, Armstrong and Rodriguez",1.2
+2914,Clothing,788.61,Griffin-Chase,3.8
+2915,Home & Kitchen,254.75,Pruitt Group,1.7
+2916,Toys,566.25,Scott-Brown,2.3
+2917,Food,361.79,"Miller, Oconnell and Lynch",2.7
+2918,Sports,658.35,Roberts and Sons,4.6
+2919,Beauty,244.2,Hardy Inc,2.0
+2920,Electronics,195.63,"Shields, Thompson and Brown",1.4
+2921,Food,918.65,Mcdaniel Group,2.3
+2922,Home & Kitchen,106.29,Holmes-Madden,1.4
+2923,Sports,508.43,Pena Ltd,1.5
+2924,Home & Kitchen,224.75,"Anderson, Soto and Dixon",3.3
+2925,Toys,43.74,Nelson Ltd,1.2
+2926,Toys,40.84,Salinas LLC,1.1
+2927,Automotive,179.35,"Pitts, Whitaker and Jackson",3.9
+2928,Beauty,867.44,Nelson Ltd,2.4
+2929,Food,286.07,Taylor-Hughes,1.5
+2930,Health,950.71,Villarreal Ltd,2.0
+2931,Health,583.71,Chapman Ltd,3.6
+2932,Food,439.43,Young-Richards,2.1
+2933,Electronics,582.19,Vasquez-Gomez,3.0
+2934,Beauty,519.11,"Powers, Henry and Mitchell",1.5
+2935,Home & Kitchen,759.98,Young-Solomon,3.4
+2936,Electronics,286.08,Wilson-Pacheco,2.3
+2937,Books,356.29,Griffin-Chase,3.5
+2938,Food,894.62,Chapman Ltd,4.2
+2939,Home & Kitchen,946.72,"Edwards, Robinson and Shannon",3.4
+2940,Health,893.1,Vasquez-Gomez,2.2
+2941,Clothing,422.35,Scott-Brown,2.0
+2942,Automotive,781.46,Pena Ltd,2.3
+2943,Health,478.95,"Miller, Oconnell and Lynch",1.7
+2944,Beauty,500.05,"Pitts, Whitaker and Jackson",1.7
+2945,Toys,208.66,"Mullen, Gilbert and Lewis",4.2
+2946,Clothing,593.17,Young-Solomon,2.5
+2947,Automotive,190.21,Mcdaniel Group,2.7
+2948,Automotive,334.91,Pruitt Group,3.4
+2949,Books,855.76,"Miller, Oconnell and Lynch",3.4
+2950,Books,211.04,Wilson-Pacheco,1.3
+2951,Sports,75.8,"Cunningham, Bennett and Abbott",4.3
+2952,Health,73.66,"Figueroa, Armstrong and Rodriguez",1.7
+2953,Health,941.08,Boyd PLC,3.9
+2954,Health,509.39,Griffin-Chase,4.1
+2955,Sports,412.37,"Livingston, Jones and Arnold",3.9
+2956,Electronics,811.82,Franco and Sons,3.3
+2957,Automotive,836.65,Vasquez-Gomez,1.1
+2958,Clothing,335.53,Vasquez-Gomez,2.4
+2959,Beauty,695.15,Moreno Group,3.4
+2960,Automotive,772.27,Moreno Group,2.5
+2961,Books,656.38,Donaldson-Jones,4.5
+2962,Home & Kitchen,155.84,York-Barnett,2.2
+2963,Toys,876.5,Chapman Ltd,2.2
+2964,Sports,541.4,Salinas LLC,2.1
+2965,Food,286.06,Ramirez and Sons,2.3
+2966,Home & Kitchen,428.1,Boyd PLC,3.2
+2967,Beauty,42.38,"Powers, Henry and Mitchell",3.8
+2968,Health,132.23,Duarte PLC,3.7
+2969,Books,766.72,Pruitt Group,4.2
+2970,Books,5.01,"Livingston, Jones and Arnold",4.5
+2971,Books,419.48,"Mccormick, Boone and Hubbard",4.3
+2972,Health,524.9,Moreno Group,1.1
+2973,Food,59.36,"Mccormick, Boone and Hubbard",3.9
+2974,Sports,973.21,"Mccormick, Boone and Hubbard",1.8
+2975,Home & Kitchen,229.99,Holmes-Madden,1.5
+2976,Health,307.68,Salinas LLC,3.6
+2977,Beauty,307.42,"Livingston, Jones and Arnold",2.3
+2978,Sports,234.26,"Pitts, Whitaker and Jackson",1.2
+2979,Beauty,6.47,York-Barnett,1.6
+2980,Sports,730.7,Pruitt Group,1.0
+2981,Food,967.01,"Coleman, Mason and Smith",4.6
+2982,Toys,228.17,Villarreal Ltd,1.1
+2983,Beauty,664.73,Cooper PLC,1.8
+2984,Health,743.19,King-Wilson,2.7
+2985,Sports,849.18,"Powers, Henry and Mitchell",2.4
+2986,Books,425.52,Salinas LLC,4.6
+2987,Automotive,306.42,Hall LLC,1.2
+2988,Books,328.67,York-Barnett,3.0
+2989,Electronics,714.06,Duarte PLC,3.7
+2990,Toys,817.7,"Figueroa, Armstrong and Rodriguez",4.7
+2991,Toys,185.71,Young-Solomon,3.5
+2992,Books,374.09,"Turner, Davis and Obrien",4.2
+2993,Home & Kitchen,902.43,Chase-Nguyen,1.3
+2994,Food,807.66,"Cunningham, Bennett and Abbott",2.5
+2995,Beauty,984.93,Boyd PLC,2.5
+2996,Health,755.48,"Powers, Henry and Mitchell",4.5
+2997,Toys,396.23,Hall LLC,1.6
+2998,Books,592.68,Holmes-Madden,1.6
+2999,Books,662.71,Young-Richards,2.3
+3000,Food,83.06,Ramirez and Sons,1.2
