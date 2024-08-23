@@ -1,0 +1,14 @@
+user_id,product_id,age,gender,location,category,price,brand,avg_rating,rating,purchase_made
+1596,2276,67,M,Joneston,Toys,295.76,Pena Ltd,4.6,3,0
+1655,2678,42,M,Nelsonside,Home & Kitchen,840.14,Wilson-Pacheco,3.5,1,0
+1996,2100,60,F,Campbellstad,Beauty,466.61,Griffin-Chase,4.7,1,0
+1575,2029,30,F,Bradyland,Health,412.86,"Mccormick, Boone and Hubbard",2.3,5,0
+1044,2155,24,F,Nicholasstad,Electronics,658.5,Lee Inc,1.5,3,1
+1619,2250,49,F,Lake Jeffreyhaven,Health,38.02,York-Barnett,1.1,4,0
+1963,2762,64,M,New Andrea,Toys,963.68,"Edwards, Robinson and Shannon",4.7,2,0
+1044,2155,24,F,Nicholasstad,Electronics,658.5,Lee Inc,1.5,3,0
+1731,2257,66,F,South Timothyside,Sports,666.66,Boyd PLC,2.0,2,0
+1408,2269,39,F,Matthewmouth,Home & Kitchen,115.17,"Mccormick, Boone and Hubbard",3.6,5,0
+1302,2964,26,F,South Samanthaview,Sports,541.4,Salinas LLC,2.1,1,0
+1910,2521,41,M,Port Steve,Health,350.54,Hall LLC,4.2,1,0
+1878,2787,19,M,West Matthew,Automotive,28.48,Scott-Brown,4.4,3,0
