@@ -44,7 +44,7 @@ Each visualization was chosen to highlight specific features of the data and pro
 
 ### Specific Examples
 
-In the `Data Visualization` Jupyter Notebook located in the `Model` folder, I have included all the visualizations created. For instance:
+In the `data_visualization` Jupyter Notebook located in the `Model` folder, I have included all the visualizations created. For instance:
 - **Price Distribution**: Shows how prices are spread across different products.
 - **Rating Distribution**: Illustrates the spread of average ratings given by users.
 - **Relationship Between Price and Rating**: Displays how price correlates with average rating.
@@ -68,11 +68,11 @@ I loaded the data files `User`, `ProductData`, `UserBehaviourData`, and `UserRat
 
 ### Feature Engineering
 
-I created the `Poor Case Mates` column to indicate whether a purchase was made (1) or not (0). This column will be used as the target variable for prediction.
+I created the `purchase_made` column to indicate whether a purchase was made (1) or not (0). This column will be used as the target variable for prediction.
 
 ### Saving Processed Data
 
-The processed data was saved into a `FinalData.csv` file within the `Data/Processed` sub-folder. This file contains all the modifications and updates made during preprocessing.
+The processed data was saved into a `final_data.csv` file within the `Data/processed/` sub-folder. This file contains all the modifications and updates made during preprocessing.
 
 ### Additional Preprocessing Details
 
@@ -120,7 +120,7 @@ In this section, I evaluated the performance of the machine learning models and 
 
 - For XGBoost, the accuracy achieved was 77.14% with a standard deviation of 0.73%.
 - For Random Forest, the accuracy achieved was 78.12% with a standard deviation of 0.01%.
-- The impact of features, including the `Poor Case Mates` column, was analyzed to see how they influenced model accuracy.
+- The impact of features, including the `purchase_made` column, was analyzed to see how they influenced model accuracy.
 
 ### Visualization
 
